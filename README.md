@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 
 <div id="header" align="center">
-<!--   ### Hi, I am Panos -->
+  <!--   ### Hi, I am Panos -->
   <img src="https://media3.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" width="100"/>
+</div>
+
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
