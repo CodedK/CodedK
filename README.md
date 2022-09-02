@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Panos
 
 <!--
 **CodedK/CodedK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/english4it-acid-english-for-it-eng4it-xFkgeu7dhfgqqxJqmj" width="100"/>
+</div>
