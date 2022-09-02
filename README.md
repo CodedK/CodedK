@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/english4it-acid-english-for-it-eng4it-xFkgeu7dhfgqqxJqmj" width="100"/>
+  <img src="[https://giphy.com/gifs/english4it-acid-english-for-it-eng4it-xFkgeu7dhfgqqxJqmj](https://giphy.com/gifs/english4it-acid-english-for-it-eng4it-xFkgeu7dhfgqqxJqmj)" width="100"/>
 </div>
