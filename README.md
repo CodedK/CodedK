@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 
 
-  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-  - :seedling: Exploring Technical Content Writing.
-  - :zap: In my free time, I code for my Phd, solving optimization problems using metaheuristics and A.I.
-  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kalatzantonakis/)
-  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+  - :test_tube: I’m working as a Software Engineer, currently a CTO.
+  - :seedling: Exploring latest research in machine learning, metaheuristics algorithms and security.
+  - :beach_umbrella: In my free time, I code for my Phd, solving optimization problems combining metaheuristics and ML and contributing to git.
+  - :twisted_rightwards_arrows:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kalatzantonakis/)
+  -
 
 
 
