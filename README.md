@@ -31,9 +31,14 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 
-<!--  ,
-, , , , , , , , , , , ,
- -->
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kalatzantonakis/)
+
 
 <div style="background-color: #ccc; padding: 10px; border-radius: 10px; margin: 10px;">
     <div id="languages" align="center">
@@ -48,11 +53,22 @@ Here are some ideas to get you started:
       <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="QT" alt="QT" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="solidity" alt="solidity" width="40" height="40"/>
     </div>
-  <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" alt="pytorch" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/networkx/networkx-original.svg" title="NetworkX" alt="NetworkX" width="40" height="40"/>
-  <br>
+    <div id="databases" align="center">
+      <h4>Databases</h4>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle"  alt="Oracle" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="redis"  alt="redis" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql"  alt="postgresql" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="composer"  alt="composer" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
+    </div>
+    <div id="frameworks" align="center">
+      <h4>A.I frameworks</h4>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" alt="pytorch" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/networkx/networkx-original.svg" title="NetworkX" alt="NetworkX" width="40" height="40"/>
+    </div>
+    
 
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
@@ -67,12 +83,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
   <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle"  alt="Oracle" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="redis"  alt="redis" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql"  alt="postgresql" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="composer"  alt="composer" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
+
 
   <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-plain-wordmark.svg?logoColor=white" title="centos" alt="centos" width="40" height="40"/>
