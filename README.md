@@ -73,7 +73,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
 
   <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-plain-wordmark.svg" title="centos" alt="centos" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-plain-wordmark.svg?logoColor=white" title="centos" alt="centos" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="bash" alt="bash" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-plain-wordmark.svg" title="nginx" alt="nginx" width="40" height="40"/>
