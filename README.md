@@ -31,6 +31,7 @@ Here are some ideas to get you started:
   - :seedling: Exploring Technical Content Writing.
   - :zap: In my free time, I code for my Phd, solving optimization problems using metaheuristics and A.I.
   - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kalatzantonakis/)
+  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 </div>
 
 
