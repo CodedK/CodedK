@@ -38,10 +38,12 @@ Here are some ideas to get you started:
     <div id="languages" align="center">
       <h4>Languages</h4>
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title="julia" alt="julia" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
+      <img src="https://github.com/CodedK/missing_devicons/blob/main/cuda/nvidia_cuda.svg" title="CUDA C" alt="CUDA C" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="OpenGL" alt="OpenGL" width="40" height="40"/>
+      <img src="https://github.com/CodedK/missing_devicons/blob/main/delphi/embarcadero_delphi.svg" title="Delphi" alt="Delphi" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title="julia" alt="julia" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="QT" alt="QT" width="40" height="40"/>
@@ -75,6 +77,9 @@ Here are some ideas to get you started:
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS3" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>
+      <img src="https://github.com/CodedK/missing_devicons/blob/main/api/api_plain.svg" title="API design" alt="API design" width="40" height="40"/>
+      <img src="https://github.com/CodedK/missing_devicons/blob/main/api/rest_api.svg" title="Rest Api" alt="Rest Api" width="40" height="40"/>
+      <img src="https://github.com/CodedK/missing_devicons/blob/main/api/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>
     </div>
   <div id="Backendframeworks" align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-plain-wordmark.svg?logoColor=white" title="centos" alt="centos" width="40" height="40"/>
