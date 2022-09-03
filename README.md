@@ -40,7 +40,7 @@ Here are some ideas to get you started:
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
-      <img src="https://github.com/CodedK/missing_devicons/blob/main/cuda/cuda_nv.svg" title="CUDA C" alt="CUDA C" width="40" height="40"/>
+      <img src="https://github.com/CodedK/missing_devicons/blob/main/cuda/cuda_nv.svg" title="CUDA C" alt="CUDA C" width="60" height="60"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="OpenGL" alt="OpenGL" width="40" height="40"/>
       <img src="https://github.com/CodedK/missing_devicons/blob/main/delphi/embarcadero_delphi.svg" title="Delphi" alt="Delphi" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title="julia" alt="julia" width="40" height="40"/>
