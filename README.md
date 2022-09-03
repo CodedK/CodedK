@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <div id="header">
-  <!--   ### Hi, I am Panos -->
+  ### Hi, I am Panos
   <img src="https://media3.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" width="100"/>
 </div>
 
