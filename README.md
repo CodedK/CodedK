@@ -61,7 +61,7 @@ Here are some ideas to get you started:
       <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/networkx/networkx-original.svg" title="NetworkX" alt="NetworkX" width="40" height="40"/>
     </div>
-    <div id="Webframeworks" align="center" color="white">
+    <div id="Webframeworks" align="center">
       <h4>Web stack</h4>
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
