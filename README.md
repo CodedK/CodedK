@@ -17,21 +17,22 @@ Here are some ideas to get you started:
 
 
 <div id="header">
-  <div align="center">
-  <h1 align="center">Hi there 👋, I'm Panos Kalatzantonakis</h1>
-  <img src="https://media3.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" width="100"/>
-  </div>
+    <div align="center">
+    <h1 align="center">Hi there 👋, I'm Panos Kalatzantonakis</h1>
+    <img src="https://media3.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" width="100"/>
+    </div>
 </div>
 
 
 
-<div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<div id="badges" align="center">
+    <a href="https://www.linkedin.com/in/kalatzantonakis/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 
 
 
-<div  id="badges">
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   &nbsp;
 
@@ -40,7 +41,7 @@ Here are some ideas to get you started:
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="R" alt="R" width="40" height="40"/>
   &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pascal/pascal-original.svg" title="R" alt="R" width="40" height="40"/>
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="R" alt="R" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="R" alt="R" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="R" alt="R" width="40" height="40"/>
