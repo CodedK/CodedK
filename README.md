@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 
 <div id="header">
-  ### Hi, I am Panos
+  <div align="center">
+  <h1 align="center">Hi there 👋, I'm Panos Kalatzantonakis</h1>
   <img src="https://media3.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" width="100"/>
+  </div>
 </div>
 
 <div id="badges">
