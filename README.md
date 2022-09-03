@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div id="header">
     <div align="center">
     <h2 align="center">Hi there 👋, I'm Panos Kalatzantonakis</h2>
-    <h5 align="center">I am a senior software engineer from Greece, passionate about programming, Artificial Intelligence 🧠, and Startups 🚀</h5>
+    <h5 align="center">I am a senior software engineer from Greece, passionate about programming, <br>Artificial Intelligence 🧠, and Startups 🚀</h5>
     <img src="https://media3.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" width="100"/>
     </div>
 </div>
@@ -40,8 +40,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="OpenGL" alt="OpenGL" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
-
-
+  <hr>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery" width="40" height="40"/>
