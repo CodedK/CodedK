@@ -80,6 +80,7 @@ Here are some ideas to get you started:
       <img src="https://github.com/CodedK/missing_devicons/blob/main/api/api_plain.svg" title="API design" alt="API design" width="40" height="40"/>
       <img src="https://github.com/CodedK/missing_devicons/blob/main/api/rest_api.svg" title="Rest Api" alt="Rest Api" width="40" height="40"/>
       <img src="https://github.com/CodedK/missing_devicons/blob/main/api/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>
+      <img src="https://github.com/CodedK/missing_devicons/blob/main/api/socketio.svg" title="Socekt.IO" alt="Socekt.IO" width="40" height="40"/>
     </div>
   <div id="Backendframeworks" align="center">
       <h4>Backend frameworks</h4>
