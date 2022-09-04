@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
   - :test_tube: I’m working as a Software Engineer, currently a CTO.
   - :seedling: Exploring latest research in machine learning, metaheuristics algorithms and security.
-  - :beach_umbrella: In my free time, I code for my Phd, solving optimization problems combining metaheuristics and ML and contributing to git.
+  - :beach_umbrella: In my free time, I code for my Phd, solving optimization problems combining metaheuristics and ML.
   - :twisted_rightwards_arrows:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kalatzantonakis/)
 
 <div align="center" padding="10px">
