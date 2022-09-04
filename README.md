@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div id="header">
     <div align="center">
-    <h2 align="center">Hi there 👋, I'm Panos Kalatzantonakis</h2>
+    <h2 align="center">Hi there 👋, I'm Panos</h2>
     <h4 align="center">I am a senior software engineer from Greece, passionate about programming, <br>Artificial Intelligence 🧠, and Startups 🚀</h4>
     <img src="https://media3.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" width="100"/>
     </div>
