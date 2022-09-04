@@ -34,6 +34,9 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codedk&show_icons=true&theme=radical&count_private=true&hide=contribs,prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codedk&layout=compact&theme=radical)
 
+<a href="https://github.com/CodedK/CodedK">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codedk&show_icons=true&theme=radical&count_private=true&hide=contribs,prs" />
+</a>
 
 
 <div style="background-color: #ccc; padding: 10px; border-radius: 10px; margin: 10px;">
