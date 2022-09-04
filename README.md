@@ -29,20 +29,10 @@ Here are some ideas to get you started:
   - :beach_umbrella: In my free time, I code for my Phd, solving optimization problems combining metaheuristics and ML and contributing to git.
   - :twisted_rightwards_arrows:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kalatzantonakis/)
 
-
-<div id="footer">
-    <div align="center">
-    <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeUGSc/giphy.gif" width="100"/>
-    </div>
-</div>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codedk&layout=compact&theme=radical)
-
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=codedk&show_icons=true&theme=radical&count_private=true&hide=contribs,prs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedk&layout=compact&theme=radical" />
 </div>
-
 
 <div style="background-color: #ccc; padding: 10px; border-radius: 10px; margin: 10px;">
     <div id="languages" align="center">
@@ -99,4 +89,10 @@ Here are some ideas to get you started:
       <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="apache" alt="apache" width="40" height="40"/>
   </div>
+</div>
+
+<div id="footer">
+    <div align="center">
+    <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeUGSc/giphy.gif" width="100"/>
+    </div>
 </div>
