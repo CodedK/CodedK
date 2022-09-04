@@ -67,6 +67,7 @@ Here are some ideas to get you started:
       <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" alt="pytorch" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>
       <img src="https://github.com/CodedK/missing_devicons/blob/main/ml_frameworks/keras.svg" title="Keras" alt="Keras" width="40" height="40"/>
+      <img src="https://github.com/CodedK/missing_devicons/blob/main/ml_frameworks/scikit.svg" title="Scikit" alt="Scikit" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/networkx/networkx-original.svg" title="NetworkX" alt="NetworkX" width="40" height="40"/>
     </div>
     <div id="Webframeworks" align="center">
