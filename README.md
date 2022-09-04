@@ -24,10 +24,13 @@ Here are some ideas to get you started:
     </div>
 </div>
 
+<div id="body">
+    <div align="center">
   - :test_tube: I’m working as a Software Engineer, currently a CTO.
   - :seedling: Exploring latest research in machine learning, metaheuristics algorithms and security.
   - :beach_umbrella: In my free time, I code for my Phd, solving optimization problems combining metaheuristics and ML.
   - :twisted_rightwards_arrows:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kalatzantonakis/)
+</div>
 
 <div align="center" padding="10px">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=codedk&show_icons=true&theme=radical&count_private=true&hide=contribs,prs" />
