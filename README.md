@@ -31,6 +31,9 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=codedk&show_icons=true&theme=radical&count_private=true&hide=contribs,prs" />
+</div>
+
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedk&layout=compact&theme=radical" />
 </div>
 
