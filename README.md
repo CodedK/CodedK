@@ -31,9 +31,8 @@ Here are some ideas to get you started:
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codedk&show_icons=true&theme=radical&count_private=true&hide=contribs,prs&bg_color=#fff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codedk&layout=compact&theme=radical&bg_color=#fff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codedk&show_icons=true&theme=radical&count_private=true&hide=contribs,prs&include_all_commits =true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codedk&layout=compact&theme=radical)
 
 
 
