@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codedk&show_icons=true&theme=radical&count_private=true&hide=contribs,prs&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codedk&show_icons=true&theme=radical&count_private=true&hide=contribs,prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codedk&layout=compact&theme=radical)
 
 
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS3" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>
-      <img src="https://github.com/CodedK/missing_devicons/blob/main/api/rest2.svg" title="Rest Api" alt="Rest Api" width="40" height="40"/>
+      <img src="https://github.com/CodedK/missing_devicons/blob/main/api/rest1.svg" title="Rest Api" alt="Rest Api" width="40" height="40"/>
       <img src="https://github.com/CodedK/missing_devicons/blob/main/api/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>
       <img src="https://github.com/CodedK/missing_devicons/blob/main/web/socketio.svg" title="Socekt.IO" alt="Socekt.IO" width="40" height="40"/>
     </div>
