@@ -30,13 +30,18 @@ Here are some ideas to get you started:
   - :twisted_rightwards_arrows:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kalatzantonakis/)
 
 
+<div id="footer">
+    <div align="center">
+    <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeUGSc/giphy.gif" width="100"/>
+    </div>
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codedk&show_icons=true&theme=radical&count_private=true&hide=contribs,prs)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codedk&layout=compact&theme=radical)
 
-<a href="https://github.com/CodedK/CodedK">
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=codedk&show_icons=true&theme=radical&count_private=true&hide=contribs,prs" />
-</a>
+</div>
 
 
 <div style="background-color: #ccc; padding: 10px; border-radius: 10px; margin: 10px;">
