@@ -96,7 +96,9 @@ Here are some ideas to get you started:
   </div>
 </div>
 
-<div id="footer" padding="10px">
+<br/><br/>
+
+<div id="footer" align="center">
     <div align="center">
     <img src="https://media.giphy.com/media/DAtJCG1t3im1G/giphy.gif" width="100"/>
     </div>
