@@ -98,6 +98,6 @@ Here are some ideas to get you started:
 
 <div id="footer">
     <div align="center">
-    <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeUGSc/giphy.gif" width="100"/>
+    <img src="https://media.giphy.com/media/DAtJCG1t3im1G/giphy.gif" width="100"/>
     </div>
 </div>
