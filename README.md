@@ -66,6 +66,7 @@ Here are some ideas to get you started:
       <h4>Machine learning frameworks and libraries</h4>
       <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" alt="pytorch" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>
+      <img src="https://github.com/CodedK/missing_devicons/blob/main/ml_frameworks/keras.svg" title="Keras" alt="Keras" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/networkx/networkx-original.svg" title="NetworkX" alt="NetworkX" width="40" height="40"/>
     </div>
     <div id="Webframeworks" align="center">
@@ -84,7 +85,7 @@ Here are some ideas to get you started:
       <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>
       <img src="https://github.com/CodedK/missing_devicons/blob/main/api/rest1.svg" title="Rest Api" alt="Rest Api" width="40" height="40"/>
       <img src="https://github.com/CodedK/missing_devicons/blob/main/api/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>
-      <img src="https://github.com/CodedK/missing_devicons/blob/main/web/socketio.svg" title="Socekt.IO" alt="Socekt.IO" width="40" height="40"/>
+      <img src="https://github.com/CodedK/missing_devicons/blob/main/web/socketio.svg" title="socket io" alt="socket io" width="40" height="40"/>
     </div>
   <div id="Backendframeworks" align="center">
       <h4>Backend frameworks</h4>
