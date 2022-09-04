@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   - :twisted_rightwards_arrows:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kalatzantonakis/)
   -
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codedk&show_icons=true&theme=radical)
 
 <div style="background-color: #ccc; padding: 10px; border-radius: 10px; margin: 10px;">
     <div id="languages" align="center">
