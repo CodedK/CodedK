@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 </div>
 
 <div id="body" align="center">
-  - :test_tube: I’m working as a Software Engineer, currently a CTO.<br/>
-  - :seedling: Exploring latest research in machine learning, metaheuristics algorithms and security.<br/>
-  - :beach_umbrella: In my free time, I code for my Phd, solving optimization problems combining metaheuristics and ML.<br/>
-  - :twisted_rightwards_arrows:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kalatzantonakis/)<br/>
+- :test_tube: I’m working as a Software Engineer, currently a CTO.<br/>
+- :seedling: Exploring latest research in machine learning, metaheuristics algorithms and security.<br/>
+- :beach_umbrella: In my free time, I code for my Phd, solving optimization problems combining metaheuristics and ML.<br/>
+- :twisted_rightwards_arrows:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kalatzantonakis/)<br/>
 </div>
 
 <div align="center" padding="10px">
