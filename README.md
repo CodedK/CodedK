@@ -24,8 +24,7 @@ Here are some ideas to get you started:
     </div>
 </div>
 
-<div id="body">
-    <div align="center">
+<div id="body" align="center">
   - :test_tube: I’m working as a Software Engineer, currently a CTO.<br/>
   - :seedling: Exploring latest research in machine learning, metaheuristics algorithms and security.<br/>
   - :beach_umbrella: In my free time, I code for my Phd, solving optimization problems combining metaheuristics and ML.<br/>
