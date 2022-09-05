@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <br/><br/>
 
 <div bgcolor="blue" id="lang_stack">
-    <div id="languages" align="center" data="markdown-body entry-content container-lg">
+    <div id="languages" align="center" color-scheme="light">
       <h4>Languages</h4>
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>
