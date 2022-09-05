@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 </div>
 <br/><br/>
 
-<div>
+<div bgcolor="blue">
     <div id="languages" align="center">
       <h4>Languages</h4>
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
