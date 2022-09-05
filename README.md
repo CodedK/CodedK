@@ -37,12 +37,12 @@ Here are some ideas to get you started:
 
 <br />
 
-<div align="center" id="tech_stack">
+<div align="center" id="git_tech_stack">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedk&layout=compact&theme=radical" />
 </div>
 <br/><br/>
 
-<div bgcolor="blue">
+<div bgcolor="blue" id="lang_stack">
     <div id="languages" align="center">
       <h4>Languages</h4>
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
