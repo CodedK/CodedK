@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 </div>
 <br/><br/>
 
+<span style="color:orange;">Word up</span>
+
 <div>
     <div id="languages" align="center">
       <h4>Languages</h4>
