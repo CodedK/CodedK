@@ -31,13 +31,13 @@ Here are some ideas to get you started:
 - :twisted_rightwards_arrows:How to reach me:&nbsp;&nbsp; [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kalatzantonakis/)<br/>
 <br/><br/>
 
-<div align="center" padding="10px">
+<div align="center" padding="10px" id="git_stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=codedk&show_icons=true&theme=radical&count_private=true&hide=contribs,prs" />
 </div>
 
 <br />
 
-<div align="center">
+<div align="center" id="tech_stack">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedk&layout=compact&theme=radical" />
 </div>
 <br/><br/>
