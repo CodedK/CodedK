@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - :seedling: Exploring latest research in machine learning, metaheuristics algorithms and security.<br/>
 - :beach_umbrella: In my free time, I code for my Phd, solving optimization problems combining metaheuristics and ML.<br/>
 - :twisted_rightwards_arrows:How to reach me:&nbsp;&nbsp; [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kalatzantonakis/)<br/>
-- Check my research in my ORCID page [![ORCID Badge](https://img.shields.io/badge/%20ORC-ID-brightgreen)](https://orcid.org/my-orcid?orcid=0000-0002-0729-6583)
+- Check my research: [![ORCID Badge](https://img.shields.io/badge/%20ORC-ID-brightgreen)](https://orcid.org/my-orcid?orcid=0000-0002-0729-6583) page
 <br/><br/>
 
 <div align="center" padding="10px" id="git_stats">
