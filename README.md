@@ -59,7 +59,7 @@ Here are some ideas to get you started:
       <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="solidity" alt="solidity" width="40" height="40"/> -->
       <img src="https://github.com/CodedK/missing_devicons/blob/main/solidity-white.svg" title="solidity" alt="solidity" width="40" height="40"/>
     </div>
-    * * *
+    ---
     <div id="databases" align="center">
       <h4>Databases</h4>
       <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
