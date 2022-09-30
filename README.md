@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </div>
 
 
-- :fire: I’m working as a Software Engineer, currently a CTO.<br/>
+- :fire: CTO with 5+ years of experience and proven leadership skills. Senior Software Engineer for 15+ years.<br/>
 - :zap: Exploring latest research in machine learning, metaheuristics algorithms and security.<br/>
 - :beach_umbrella: In my free time, I code for my Phd, solving optimization problems combining metaheuristics and ML.<br/>
 - :twisted_rightwards_arrows:How to reach me:&nbsp;&nbsp; [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kalatzantonakis/)<br/>
