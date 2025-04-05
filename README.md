@@ -1,7 +1,7 @@
 
 
 <!--
-**CodedK/CodedK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CodedK/CodedK** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,18 +19,20 @@ Here are some ideas to get you started:
 <div id="header">
     <div align="center">
     <h2 align="center">Hi there 👋, I'm Panos</h2>
-    <h4 align="center">I am a senior software engineer from Greece, passionate about programming, <br>Artificial Intelligence 🧠, and Startups 🚀</h4>
+    <h4 align="center">CTO & PhD researcher combining AI with metaheuristics to solve real-world optimization problems</h4>
     <img src="https://media3.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" width="100"/>
     </div>
 </div>
 
 
-- :fire: CTO with 5+ years of experience and proven leadership skills. Senior Software Engineer for 15+ years.<br/>
-- :zap: Exploring latest research in machine learning, metaheuristics algorithms and security.<br/>
-- :beach_umbrella: In my free time, I code for my Phd, solving optimization problems combining metaheuristics and ML.<br/>
-- :twisted_rightwards_arrows:How to reach me:&nbsp;&nbsp; [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kalatzantonakis/)<br/>
-- :test_tube: Check my research here: [![ORCID Badge](https://img.shields.io/badge/%20ORC-ID-brightgreen)](https://orcid.org/0000-0002-0729-6583)
-<br/><br/>
+- 🔭 CTO with 5+ years of executive experience and 20+ years in software engineering  
+- 🧠 PhD researcher exploring reinforcement learning, metaheuristics, and AI applications in logistics and gaming  
+- 💻 Passionate about practical AI, optimization, and solving problems at scale  
+- 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kalatzantonakis/)  
+- 📚 Check my research: [![ORCID Badge](https://img.shields.io/badge/%20ORC-ID-brightgreen)](https://orcid.org/0000-0002-0729-6583)
+
+
+<br/>
 
 <div align="center" padding="10px" id="git_stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=codedk&show_icons=true&theme=radical&count_private=true&hide=contribs,prs" />
@@ -44,7 +46,7 @@ Here are some ideas to get you started:
 <br/><br/>
 
 <div bgcolor="blue" id="lang_stack">
-    <div id="languages" align="center" color="`#ffffff`">
+    <div id="languages" align="center" color="#ffffff">
       <h4>Languages</h4>
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>
@@ -114,5 +116,6 @@ Here are some ideas to get you started:
 <div id="footer" align="center">
     <div align="center">
     <img src="https://media.giphy.com/media/DAtJCG1t3im1G/giphy.gif" width="100"/>
+    <p><b>🚀 I'm open to collaborations in applied AI, optimization, or research-driven consulting projects.</b></p>
     </div>
 </div>
