@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 🧠 PhD researcher exploring reinforcement learning, metaheuristics, and AI applications in logistics and gaming  
 - 💻 Passionate about practical AI, optimization, and solving problems at scale  
 - 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kalatzantonakis/)  
-- 📚 Check my research: [![ORCID Badge](https://img.shields.io/badge/%20ORC-ID-brightgreen)](https://orcid.org/0000-0002-0729-6583)
+- 📚 Check my research: [![ORCID Badge](https://img.shields.io/badge/%20ORC-ID-brightgreen)](https://orcid.org/0000-0002-0729-6583) [![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-blue)](https://scholar.google.com/citations?user=dIP7zfgAAAAJ&hl=en)
 
 
 <br/>
