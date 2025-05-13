@@ -1,5 +1,5 @@
 <div align="center" id="header">
-  <h2>Hey there 👋, I'm Panos</h2>
+  <h2>Hey there 👋, I'm Panos Kalatzantonakis</h2>
   <h4>CTO & PhD researcher trying to make AI and optimization a little more useful every day</h4>
   <img src="https://media3.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" width="100" />
 </div>
